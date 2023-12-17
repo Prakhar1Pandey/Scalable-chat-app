@@ -2,8 +2,7 @@
 
 **Using the Pub/Sub architecture, we can scale up the web sockets, enabling users from different servers to communicate with each other. This scalable socket real-time application utilizes Redis on Aiven cloud, employing Redis Pub/Sub architecture to scale the web sockets.**
 
-![Screenshot (184)](https://github.com/Prakhar1Pandey/scalable-chat-app/assets/91981713/53a91637-c3a6-42af-a506-b23510e8fd6a)
-
+![Screenshot (184)](https://github.com/Prakhar1Pandey/Scalable-chat-app/assets/91981713/50002213-ef56-4e78-b1c4-0411de9c98b2)
 
 # Traditional Websocket Scaling Limitations:
 
